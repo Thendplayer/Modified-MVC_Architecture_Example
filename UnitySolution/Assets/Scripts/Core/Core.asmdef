@@ -1,8 +1,7 @@
 {
-    "name": "TapCount",
+    "name": "Core",
     "references": [
-        "UniRx",
-        "Unity.TextMeshPro"
+        "TapCount"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],

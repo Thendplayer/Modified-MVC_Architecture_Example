@@ -1,7 +1,9 @@
 {
-    "name": "Scripts",
+    "name": "TapCount",
     "references": [
-        "TapCount"
+        "UniRx",
+        "Unity.TextMeshPro",
+        "Command"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],

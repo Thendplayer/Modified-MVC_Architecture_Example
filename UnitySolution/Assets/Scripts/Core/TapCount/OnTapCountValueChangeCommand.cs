@@ -1,6 +1,8 @@
+using Command;
+
 namespace GameExample.TapCount
 {
-    public class OnTapCountValueChangeCommand
+    public class OnTapCountValueChangeCommand : ICommand
     {
         private readonly TapCountModel _model;
 

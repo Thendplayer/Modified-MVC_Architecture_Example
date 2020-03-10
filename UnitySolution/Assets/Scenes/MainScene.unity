@@ -604,7 +604,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1349583811}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 20c297899c24ebc4593a54f933eabad5, type: 3}
+  m_Script: {fileID: 11500000, guid: c7e9e4f932a0a4d4fb5bbede5339ea6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _tapCountInstaller: {fileID: 1177765955}
